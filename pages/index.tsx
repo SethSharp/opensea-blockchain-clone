@@ -1,6 +1,11 @@
 import Head from 'next/head'
 import Header from '../Components/Header'
-
+import Hero from '../Components/Hero'
 export default function Home() {
-  return <Header />
+  return (
+    <>
+      <Header />
+      <Hero/>
+    </>
+  )
 }

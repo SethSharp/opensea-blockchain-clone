@@ -25,7 +25,7 @@ const Header = () => {
       <Link href="/">
         <div className={style.logoContainer}>
           <Image src={openseaLogo} height={40} width={40} />
-          <div className={style.logoText}>Is Alex Gae?</div>
+          <div className={style.logoText}> OpenOcean </div>
         </div>
       </Link>
       <div className={style.searchBar}>
