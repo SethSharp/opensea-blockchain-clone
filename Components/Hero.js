@@ -32,7 +32,7 @@ const Hero = () => {
               <button className={style.button}> Create</button>
             </div>
           </div>
-          <div classname={style.cardContainer}>
+          <div className={style.cardContainer}>
             <img
               className="rounded-t-lg"
               src="https://lh3.googleusercontent.com/ThLQ-hNZp-s0xTARAYc8B0a1IfnXUajZIW8SVyJ0fK8cOUxN5Gn4Wtpn5508hZfJ21QaV9tKP38FtarpiQ9e6N76bztmTIZXNixgHA=s550"
